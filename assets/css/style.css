@@ -117,6 +117,10 @@ h3{
 .image{
     
     width: 100%;
+    
+}
+#radius{
+    border-radius: 8%;
 }
 .paragraph{
     text-align: justify;
